@@ -42,7 +42,7 @@
 <!-- Dynamic typing tagline — SVG scales to container width on any device -->
 <div align="center">
   <a href="https://github.com/georgin-shaju">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=39D353&center=true&vCenter=true&width=600&lines=Deploying+real+hardware%2C+not+just+diagrams;ESXi+%C2%B7+Windows+Server+%C2%B7+Cisco+%C2%B7+Firewalls;Documenting+every+lab%2C+every+incident" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=39D353&center=true&vCenter=true&width=600&lines=Deploying+real+hardware%2C+not+just+diagrams;ESXi+%C2%B7+Windows+Server+%C2%B7+Cisco+%C2%B7+Firewalls;Wireless+%C2%B7+Wireshark+%C2%B7+Packet+Captures;Documenting+every+lab%2C+every+incident" alt="Typing SVG" />
   </a>
 </div>
 
@@ -81,13 +81,19 @@
     Packet Tracer + real Cisco hardware
   → Real-hardware firewalls — Endian
     Firewall & FortiGate
+  → Real-hardware wireless — Cisco
+    Aironet 1815, guest + captive portal
+  → Wireshark packet captures — ARP,
+    TCP handshake, DNS/UDP, MAC learning
   → NOC-style write-ups for every lab
   → Vatanix Technologies — 60-day
-    hands-on training program
+    program complete, now in a 45-day
+    advanced training phase
 
-⚡ Fun Fact: Plugged a cable into the
-   iLO port instead of the NIC once —
-   Layer 1 starts with reading labels!
+⚡ Fun Fact: Watched a switch's MAC
+   table go from empty to fully populated
+   off a single ping — it was listening
+   the whole time, just never asked to.
 </pre>
 </div>
 
